@@ -62,7 +62,7 @@ app.use(function(req,res,next){
   res.locals.messages = require('express-messages')(req,res);
   next();
 });
-
+ 
 
 //Make db accessible to our router
 app.use(function(req,res,next){
