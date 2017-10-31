@@ -1,0 +1,239 @@
+
+div.container1 {
+    width: 100%;
+    border: 1px solid gray;
+    background-image:url("mal1.png") ;
+}
+.first  {
+  display: block;
+  background-color: #ffffff;
+  text-align: center;
+  opacity: 0.8;
+}
+p   {
+  font-weight:bold;
+  color:#000000;
+}
+.second {
+  text-align: center;
+  color:#000000;
+}
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+    color: gray;
+}
+li a  {
+  display: block;
+  padding:16px;
+  text-align: center;
+  text-decoration:none;
+  color:black;
+  font-family: calibri;
+  font-weight: bold;
+}
+li a:hover  {
+  background-color: gray;
+}
+
+.button {
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 15px 35px;
+    text-align: center;
+    text-decoration: none;
+    font-family: calibri;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+.button:hover  {
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.9), 0px 6px 20px 0px rgba(0,0,0,0.19);
+}
+article {
+    margin-left: 160px;
+    border-left: 1px solid gray;
+    padding: 80px;
+    overflow: hidden;
+    color:#000000;
+    font-weight: bold;
+}
+img  {
+  width:200px;
+  height:80px;
+}
+img:hover {
+  background-color: yellow;
+}
+}
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+.first  {
+  display: block;
+  text-align: center;
+}
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+    color: gray;
+}
+li a  {
+  display: block;
+  padding:16px;
+  text-align: center;
+  text-decoration:none;
+  color:black;
+  font-family: calibri;
+  font-weight: bold;
+}
+li a:hover  {
+  background-color: gray;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul a {
+    text-decoration: none;
+}
+header,footer  {
+    padding: 10px;
+    background-color: black;
+    clear: left;
+    color:white;
+    font-family: verdana;
+    font-size: 20px;
+}
+article {
+  text-align: left;
+  font-size: 20px;
+  border-left: 1px solid gray;
+  padding:60px;
+  overflow: hidden;
+}
+ul #bullet  {
+  list-style-type: disc;
+}
+.second {
+  text-align: right;
+}
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+.first  {
+  display: block;
+  text-align: center;
+}
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+    color: gray;
+}
+li a  {
+  display: block;
+  padding:16px;
+  text-align: center;
+  text-decoration:none;
+  color:black;
+  font-family: calibri;
+  font-weight: bold;
+}
+li a:hover  {
+  background-color: gray;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul a {
+    text-decoration: none;
+}
+header,footer  {
+    padding: 10px;
+    background-color: black;
+    clear: left;
+    color:white;
+    font-family: verdana;
+    font-size: 20px;
+}
+article {
+  text-align: left;
+  font-size: 20px;
+  border-left: 1px solid gray;
+  padding:60px;
+  overflow: hidden;
+}
+.second {
+  text-align: right;
+}
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+.first  {
+  display: block;
+  text-align: center;
+}
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+    color: gray;
+}
+li a  {
+  display: block;
+  padding:16px;
+  text-align: center;
+  text-decoration:none;
+  color:black;
+  font-family: calibri;
+  font-weight: bold;
+}
+li a:hover  {
+  background-color: gray;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul a {
+    text-decoration: none;
+}
+header,footer  {
+    padding: 10px;
+    background-color: black;
+    clear: left;
+    color:white;
+    font-family: verdana;
+    font-size: 20px;
+}
+article {
+  text-align: left;
+  font-size: 20px;
+  border-left: 1px solid gray;
+  padding:60px;
+  overflow: hidden;
+}
